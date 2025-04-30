@@ -1,6 +1,9 @@
 JTRANSC
 -------
 
+> [!NOTE]  
+> ARCHIVED. Not maintained anymore.
+
 ![JTransc](extra/logo-256.png)
 
 [![Maven Version](https://img.shields.io/github/tag/jtransc/jtransc.svg?style=flat&label=maven)](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22jtransc-maven-plugin%22)
